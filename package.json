@@ -1,0 +1,19 @@
+{
+    "name": "miniServer",
+    "description": "build up a http server on local by node",
+    "version": "0.0.1",
+    "author": "Vincent.Chang",
+    "keywords": [
+        "server",
+        "mini",
+        "local",
+        "light"
+    ],
+    "devDependencies": {
+        // "node": "~0.12.9"
+    },
+    "engines": {
+        "node": ">= 0.9"
+    },
+    "license": "MIT"
+}
